@@ -1,0 +1,368 @@
+Promethazine	Phenergan	Phenothiazine	Allergic rhinitis	108
+
+
+
+Donepezil	Aricept	Acetylcholinesterase enzyme inhibitor	Alzheimer's disease	111
+Memantine	Namenda	NMDA receptor antagonist	Alzheimer's disease	156
+
+
+
+Isosorbide mononitrate	Imdur, Ismo	Organic nitrate vasodilator	Angina	71
+Nitroglycerin	Nitrostat, Nitroquick	Vasodilator	Angina	115
+
+
+
+Alprazolam	Xanax, Xanax XR	Benzodiazepine	Anxiety	12
+Lorazepam	Ativan	Benzodiazepine	Anxiety	40
+Diazepam	Valium	Benzodiazepine	Anxiety	82
+Buspirone	BuSpar	Antianxiety agent	Anxiety	73
+
+
+
+Meloxicam	Mobic	Non-steroidal anti-inflamatory (NSAID)	Arthritis	24
+Celecoxib	Celebrex	COX2 inhibitor	Arthritis	94
+
+
+
+Albuterol	Proventil HFA, Proair HFA, Ventolin HFA	Beta-2 receptor agonist	Asthma	9
+Budesonide	Pulmicort	Corticosteroid	Asthma	181
+Budesonide/formoterol	Symbicort	Corticosteroid/selective beta-2 receptor agonist	Asthma	113
+Fluticasone	Flovent	Corticosteroid	Asthma	190
+Fluticasone/salmeterol	Advair HFA, Advair Diskus	Corticosteroid/beta-2 receptor agonist	Asthma	51
+Montelukast	Singulair	Leukotriene receptor antagonist	Asthma	26
+
+
+
+Methylphenidate	Ritalin, Matadate, Concerta	Central nervous system stimulant	Attention deficit hyperactivity disorder (ADHD)	68
+Lisdexamfetamine	Vyvanse	CNS stimulant	ADHD	126
+Dexmethylphenidate	Focalin, Focalin XR	CNS stimulant	ADHD	187
+Amphetamine/dextroamphetamine	Adderall	Amphetamine	ADHD	70
+Guanfacine	Intuniv	Centrally-acting alpha 2A adrenergic receptor agonist	ADHD	193
+
+
+
+Azithromycin	Zithromax, Zmax	Macrolide antibiotic	Bacterial infection	18
+Amoxicillin	Amoxil, Moxatag, Trimox	Penicillin antibiotic	Bacterial infection	22
+Amoxicillin/clavulanate	Augmentin, Augmentin XR	Penicillin antibiotic/beta lactamase inhibitor	Bacterial infection	57
+Doxycycline	Vibramycin	Tetracycline	Bacterial infection	105
+Minocycline	Minocin	Tetracycline	Bacterial infection	144
+Ciprofloxacin	Cipro, Cipro XR	Fluoroquinolone antibiotic	Bacterial infection	49
+Levofloxacin	Levaquin	Fluoroquinolone	Bacterial infection	79
+Cephalexin	Keflex	Cephalosporin antibiotic	Bacterial infection	50
+Cefdinir	Omnicef	Cephalosporin antibiotic	Bacterial infection	119
+Cefuroxime	Ceftin	Cephalosporin antibiotic	Bacterial infection	169
+Sulfamethoxazole/trimethoprim	Bactrim, Bactrim DS, Septra, Septra DS	Synthetic combination antibiotic	Bacterial infection	43
+Clindamycin	Cleocin	Semisynthetic antibiotic	Bacterial infection	131
+Nitrofurantoin	Macrobid, Macrodantin	Antibacterial agent	Bacterial infection	141
+Mupirocin	Bactroban	Antibacterial agent	Bacterial skin infection	158
+
+
+
+Tamsulosin	Flomax	Alpha 1A adrenoceptor antagonist	Benign prostatic hypertrophy (BPH)	44
+Finasteride	Proscar	Steroid type II 5a-reductase inhibitor	BPH	154
+Terazosin	Hytrin	Selective alpha-1 receptor blocker	BPH	176
+Doxazosin	Cardura, Cardura XL	Alpha adrenergic receptor blocker	BPH	191
+
+
+
+Norgestimate/ethinyl estradiol	Ortho Cyclen, Ortho Tri-Cyclen, Sprintec, TriSprintec	Combination oral contraceptive	Birth Control	75
+Levonorgestrel/ethinyl estradiol	Alesse, Aviane, Portia	Progestin/Estrogen	Birth Control	151
+Drospirenone/ethinyl estradiol	Yasmin, Ocella	Progestin/Estrogen	Birth Control	167
+Norethindrone/ethinyl estradiol	Neocon 1/35, Ortho Novum 1/35	Progestin/estrogen	Birth control	197
+
+
+
+Methotrexate	Trexall	Antimetabolite	Cancer	160
+
+
+
+Ipratropium/albuterol	Combivent, DuoNeb	Anticholinergic/beta-2 receptor agonist	Chronic obstructive pulmonary disease (COPD)	58
+Tiotropium	Spiriva	Anticholinergic	Chronic obstructive pulmonary disease (COPD)	80
+
+
+
+Polyethylene glycol 3350	Miralax, Glycolax	Laxative	Constipation	116
+
+
+
+Benzonatate	Tessalon	Antitussive	Cough	130
+Chlorpheniramine/hydrocodone	Tussionex	Antihistamine/narcotic	Cough	139
+Codeine/guaifenesin	Robitussion AC, Mytussin AC	Narcotic/Expectorant	Cough	150
+
+
+
+Nystatin (topical)	Nystop	Antifungal agent	Cutaneous mycotic infection	152
+
+
+
+Warfarin	Coumadin, Jantoven	Anticoagulant	Deep vein thrombosis	17
+
+
+
+Citalopram	Celexa	Selective serotonin reuptake inhibitor (SSRI)	Depression	15
+Sertraline	Zoloft	Selective serotonin reuptake inhibitor (SSRI)	Depression	25
+Fluoxetine	Prozac, Sarafem	Selective serotonin reuptake inhibitor (SSRI)	Depression	39
+Escitalopram	Lexapro	Selective serotonin reuptake inhibitor	Depression	54
+Paroxetine	Paxil, Paxil-CR	Selective serotonin reuptake inhibitor	Depression	61
+Duloxetine	Cymbalta	Selective serotonin and norepinephrine reuptake inhibitor	Depression	36
+Venlafaxine	Effexor, Effexor XR	Selective serotonin and norepinephrine reuptake inhibitor	Depression	42
+Desvenlafaxine	Pristiq	Serotonin norepinephrine reuptake inhibitor	Depression	195
+Bupropion	Wellbutrin SR, Wellbutrin XL, Forfivo XL, Zyban	Antidepressant	Depressant/smoking cessation	52
+Trazodone	Desyrel	Antidepressant	Depression	35
+Mirtazapine	Remeron	Antidepressant	Depression	96
+Amitriptyline	Elavil	Tricyclic antidepressant	Depression	53
+Nortriptyline	Pamelor	Tricyclic antidepressant	Depression	172
+
+
+
+Metformin	Glucophage, Glucophage XR, Fortamet	Biguanide	Diabetes	7
+Insulin glargine	Lantus, Lantus SoloSTAR	Insulin	Diabetes	47
+Insulin lispro	Humalog	Insulin	Diabetes	124
+Insulin aspart	Novolog	Insulin	Diabetes	132
+Insulin detemir	Levemir	Insulin	Diabetes	194
+Glimepiride	Amaryl	Sulfonylurea	Diabetes	56
+Glipizide	Glucotrol, Glucotrol XL	Sulfonylurea	Diabetes	66
+Glyburide	DiaBeta, Micronase	Sulfonylurea	Diabetes	159
+Sitagliptan	Januvia	Dipeptidyl peptidase-4 (DPP-4) enzyme inhibitor	Diabetes	120
+Pioglitazone	Actos	Thiazolidinedione	Diabetes	175
+Metoclopramide	Reglan	Antiemetic	Diabetic gastroparesis	140
+
+
+
+Diphenoxylate/atropine	Lomotil	Antidiarrheal/anticholinergic	Diarrhea	199
+
+
+
+Furosemide	Lasix	Loop diuretic	Edema	10
+Torsemide	Demadex	Pyridine-sulfonylurea diuretic	Edema	177
+
+
+
+Topiramate	Topamax	Anticonvulsant	Epilepsy	65
+Divalproex	Depakote, Depakote ER	Anticonvulsant	Epilepsy	93
+Gabapentin	Neurontin	Anticonvulsant	Epilepsy	16
+Phenytoin	Dilantin	Anticonvulsant	Epilepsy	173
+Carbamazepine	Tegretol, Tegretol XR, Carbatrol ER, Equetro ER	Anticonvulsant	Epilepsy	170
+Levetiracetam	Keppra	Antiepileptic	Epilepsy	145
+Lamotrigine	Lamictal, Lamictal XR	Phenyltriazine anticonvulsant	Epilepsy	74
+Clonazepam	Klonopin	Benzodiazepine	Epilepsy	29
+
+
+
+Tadalafil	Cialis	Selective cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5) inhibitor	Erectile dysfuntion	196
+
+
+
+Fluconazole	Diflucan	Synthetic triazole antifungal	Fungal infection	89
+Metronidazole	Flagyl	Synthetic antimicrobial agent	Parasitic infection	157
+
+
+
+Chlorhexidine	Peridex, Periogard	Antiplaque rinse	Gingivitis	185
+
+
+
+Latanoprost	Xalatan	Prostaglandin F2 alpha analog	Glaucoma	129
+
+
+
+Allopurinol	Zyloprim	Xanthine oxidase inhibitor	Gout	59
+
+
+
+Digoxin	Lanoxin, Digitek	Cardiac glycoside	Heart Failure	86
+
+
+
+Valacyclovir	Valtrex	Antiviral agent	Herpes infection	153
+Acyclovir	Zovirax	Synthetic nucleoside analogue	Herpes infection	166
+Pregabalin	Lyrica	Antineuralgic	Post-herpetic neuralgia	106
+Lidocaine (transdermal)	Lidoderm	Anesthetic	Post-herpetic neuralgia pain	171
+
+
+
+Simvastatin	Zocor	HMG-CoA reductase inhibitor	Hyperlipidemia	4
+Pravastatin	Pravachol	HMG-CoA reductase inhibitor	Hyperlipidemia	38
+Atorvastatin	Lipitor	HMG-CoA reductase inhibitor	Hyperlipidemia	11
+Rosuvastatin	Crestor	HMG-CoA reductase inhibitor	Hyperlipidemia	45
+Lovastatin	Mevacor	HMG-CoA reductase inhibitor	Hyperlipidemia	84
+Fenofibrate	TriCor	Lipid regulating agent	Hyperlipidemia	87
+Gemfibrozil	Lopid	Lipid regulating agent	Hyperlipidemia	136
+Ezetimibe	Zetia	Antihyperlipidemic	Hyperlipidemia	122
+Niacin	Niaspan	Antihyperlipidemic agent	Hyperlipidemia	178
+
+
+
+Hydrochlorothiazide	Microzide, HydroDIURIL, Oretic, Esidrix	Thiazide diuretic	Hypertension	21
+Benazepril	Lotensin	Angiotensin converting enzyme inhibitor (ACEI)	Hypertension	110
+Enalapril	Vasotec	Angiotensin converting enzyme inhibitor (ACEI)	Hypertension	112
+Ramipril	Altace	Angiotensin converting enzyme inhibitor (ACEI)	Hypertension	121
+Lisinopril	Prinivil, Zestril	Angiotensin converting enzyme inhibitor (ACEI)	Hypertension	3
+Lisinopril/hydrochlorothiazide	Zestoretic, Prinzide	Angiotensin converting enzyme inhibitor (ACEI)/Thiazide diuretic	Hypertension	32
+Olmesartan	Benicar	Angiotensin receptor blocker (ARB)	Hypertension	168
+Olmesartan/hydrochlorothiazide	Benicar-HCT	Angiotensin receptor blocker (ARB)/thiazide diuretic	Hypertension	186
+Valsartan	Diovan	Angiotensin receptor blocker (ARB)	Hypertension	95
+Valsartan/hydrochlorothiazide	Diovan-HCT	Angiotensin receptor blocker (ARB)/thiazide diuretic	Hypertension	102
+Losartan	Cozaar	Angiotensin receptor blocker (ARB)	Hypertension	31
+Losartan/hydrochlorothiazide	Hyzaar	Angiotensin receptor blocker (ARB)/thiazide diuretic	Hypertension	88
+Metoprolol tartrate	Lopressor	Beta adrenergic receptor blocker	Hypertension	8
+Metoprolol succinate	Toprol-XL	Beta adrenergic receptor blocker	Hypertension	19
+Carvedilol	Coreg, Coreg CR	Beta adrenergic receptor blocker	Hypertension	27
+Atenolol	Tenormin	Beta adrenergic receptor blocker	Hypertension	46
+Propranolol	Inderal, Inderal LA, Innopran XL	Beta adrenergic receptor blocker	Hypertension	83
+Nebivolol	Bystolic	Beta adrenergic receptor blocker	Hypertension	134
+Bisoprolol/hydrochlorothiazide	Ziac	Beta adrenergic receptor blocker/thiazide diuretic	Hypertension	198
+Amlodipine	Norvasc	Calcium channel blocker (CCB)	Hypertension	6
+Diltiazem	Cardizem, Cardizem CD, Cartia, Tiazac	Calcium channel blocker (CCB)	Hypertension	64
+Nifedipine	Procardia, Procardia XL, Nifeldical XL, Adalet CC	Calcium channel blocker (CCB)	Hypertension	97
+Verapamil	Isoptin, Isoptin SR, Calan, Calan SR, Verelan, Verelan PM	Calcium channel blocker (CCB)	Hypertension	107
+Amlodipine/benazepril	Lotrel	Calcium channel blocker/ angiotensin converting enzyme inhibitor (ACEI)	Hypertension	114
+Spironolactone	Aldactone	Aldosterone Antagonist	Hypertension	63
+Clonidine	Catapres, Catapres TTS	Central acting alpha agonist	Hypertension	69
+Triamterene/hydrochlorothiazide	Dyazide, Maxide	Potassium-sparing diuretic/thiazide diuretic	Hypertension	77
+
+
+
+Thyroid	Armour Thyroid	Thyroid hormone	Hypothyroidism	146
+Levothyroxine	Synthroid, Levoxyl, Levothroid	Thyroid hormone	Hypothyroid	2
+Ergocalciferol	Drisdol	Vitamin	Hypoparathyroidism	125
+
+
+
+Potassium Chloride	Klor-Con, K-Dur, Micro-K	Electrolyte	Hypokalemia	14
+
+
+
+Prednisone	Deltasone	Corticosteroid	Inflammation	23
+Ibuprofen	Motrin, Advil	Non-steroidal anti-inflammatory (NSAID)	Inflammation	62
+Naproxen	Naprosyn, EC-Naprosyn	Non-steroidal anti-inflammatory (NSAID)	Inflammation	76
+
+
+
+Oseltamivir	Tamiflu	Antiviral agent	Influenza infection	142
+
+
+
+Zolpidem	Ambien, Ambien CR	Sedative-hypnotic	Insomnia	20
+Eszopiclone	Lunesta	Hypnotic agent	Insomnia	189
+Temazepam	Restoril	Benzodiazepine	Insomnia	100
+
+
+
+Dicyclomine	Bentyl	Antimuscarinic agent	Irritable bowel syndrome	163
+
+
+
+Hydroxychloroquine	Plaquenil	Antimalarial	Malaria Prevention	174
+
+
+
+Folic Acid	Folic Acid	Vitamin	Megaloblastic anemia	138
+
+
+
+Estradiol (topical)	Vivelle-Dot	Estrogen	Menopause	104
+Estrogens	Premarin	Estrogen	Menopause	148
+
+
+
+Sumatriptan	Imitrex	Selective 5-HT (1B/1D) receptor agonist	Migraine headaches	143
+Butalbital/acetaminophen/caffeine	Fioricet	Barbiturate/analgesic/CNS stimulant	Tension headaches	147
+
+
+
+Cyclobenzaprine	Flexeril, Amrix, Fexmid	Skeletal muscle relaxant	Muscle Spasm	30
+Methocarbamol	Robaxin	Muscle relaxant	Muscle Spasm	164
+
+
+
+Clopidogrel	Plavix	Platelet aggregation inhibitor	Myocardial infarction prophylaxis	34
+
+
+
+Ondansetron	Zofran	Serotonin 5-HT3 receptor blocker	Nausea	81
+
+
+
+Phentermine	Adipex-P, Lonamin, Fastin	Weight loss agent	Obesity	118
+
+
+
+Buprenorphrine/naloxone	Suboxone	Mu-opioid receptor partial agonist and kappa-opioid receptor antagonist/opioid receptor antagonist	Opioid dependence	165
+
+
+
+Alendronate	Fosamax	Bisphosphonate	Osteoporosis	85
+Diclofenac	Voltaren, Voltaren XR	Non-steroidal anti-inflammatory agent (NSAID)	Osteoarthritis	127
+
+
+
+Oxybutynin	Ditropan, Ditropan XL	Anticholinergic	Overactive bladder	101
+Solifenacin	Vesicare	Muscarinic receptor antagonist	Overactive bladder	179
+
+
+
+Acetaminophen/Codeine	Tylenol #3, Tylenol #4	Analgesic/Narcotic	Pain	123
+Hydrocodone/Acetaminophen	Lortab, Vicodin, Norco	Narcotic/Analgesic	Pain	1
+Oxycodone/Acetaminophen	Percocet, Roxicet, Endocet	Narcotic/Analgesic	Pain	28
+Tramadol	Ultram, Ultram ER, Ryzolt	Analgesic	Pain	13
+Oxycodone	OxyContin, Roxicodone	Narcotic	Pain	48
+Methadone	Only generic available	Narcotic	Pain	183
+Morphine	MS Contin	Narcotic	Pain	67
+Hydromorphone	Dilaudid	Narcotic	Pain	103
+Fentanyl (Transdermal)	Duragesic	Narcotic	Pain	78
+
+
+
+Ropinirole	Requip, Requip XL	Dopamine agonist	Parkinson's disease	98
+Pramipexole	Mirapex	Dopamine agonist	Parkinson's disease	135
+Carbidopa/levodopa	Sinemet	Aromatic amino acid decarboxylation inhibitor/ aromatic amino acid	Parkinson's disease	155
+
+
+
+Hydroxyzine	Vistaril,Atarax	Antihistamine	Pruritis	91
+Triamcinolone (topical)	Kenalog	Corticosteroid	Pruritic dermatosis	92
+Clobetasol (topical)	Temovate	Corticosteroid	Pruritic dermatoses	200
+
+
+
+Quetiapine	Seroquel	Atypical antipsychotic	Schizophrenia	60
+Risperidone	Risperdal	Atypical antipsychotic	Schizophrenia	99
+Aripiprazole	Abilify	Psychotropic	Schizophrenia	109
+Olanzapine	Zyprexa	Atypical antipsychotic	Schizophrenia	180
+Lithium	Lithonate, Lithotabs, Lithobid, Eskalith	Antimanic engent	Bipolar Disease	182
+
+
+
+Fluticasone (nasal)	Flonase	Corticosteroid	Seasonal allergies	37
+Mometasone (nasal)	Nasonex	Corticosteroid	Seasonal allergies	161
+Methylprednisolone	Medrol	Corticosteroid	Allergic disorders	72
+
+
+
+Varenicline	Chantix	Selective alpha-4 beta-2 nicotinic acetylcholine receptor partial agonist	Smoking cessation	188
+
+
+
+Baclofen	Lioresal, Kemstro	Muscle Relaxant	Spasticity	90
+Tizanidine	Zanaflex	Central alpha 2-adrenergic agonist	Spasticity	128
+Carisoprodol	Soma	Muscle Relaxant	Musculoskeletal pain	133
+
+
+
+Rivaroxaban	Xarelto	Factor Xa inhibitor	Stroke reduction in atrial fibrillation	184
+
+
+
+Omeprazole	Prilosec	Proton pump inhibitor	Ulcer	5
+Pantoprazole	Protonix	Proton pump inhibitor	Ulcer	33
+Esomeprazole	Nexium	Proton pump inhibitor	Ulcer	55
+Lansoprazole	Prevacid	Proton pump inhibitor	Ulcer	117
+Ranitidine	Zantac	H2 receptor antagonist	Ulcer	41
+Famotidine	Pepcid	Histamine 2 receptor antagonist	Ulcer	137
+Sucralfate	Carafate	Antiulcer agent	Ulcer	162
+
+
+
+Amiodarone	Cordarone, Pacerone	Antiarrhythmic	Ventricular arrhythmias	149
+Sotalol	Betapace	Antiarrhythmic agent	Ventricular arrhythmia	192
